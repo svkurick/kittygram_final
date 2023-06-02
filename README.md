@@ -1,5 +1,7 @@
 #  Как работать с репозиторием финального задания
 
+![badge](https://github.com/krovekarp/kittygram_final/actions/workflows/main.yml/badge.svg)
+
 ## Что нужно сделать
 
 Настроить запуск проекта Kittygram в контейнерах и CI/CD с помощью GitHub Actions
