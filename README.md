@@ -1,5 +1,5 @@
 #  Проект Kittygram
-![Badge](https://github.com/Amir800S/kittygram_final/actions/workflows/kittygram_workflow.yml/badge.svg)
+
 ### Через Kittygram возможно создание, редактирование и просмотр котиков!
 Использованные технологии:
 
@@ -8,7 +8,7 @@
 ### Как пользоваться проектом?
 Клонируем репозиторий:
 ```python
-git clone git@github.com:svkiruck/kittygram_final.git
+git clone git@github.com:svkurick/kittygram_final.git
 ```
 Переходим в директорию проекта и запускаем его:
 ```python
